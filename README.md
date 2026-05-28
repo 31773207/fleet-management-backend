@@ -50,7 +50,7 @@ It communicates with the frontend application through secure REST APIs.
 ## 🔗 Related Repositories
 
 * Frontend: https://github.com/31773207/front.git
-* Report: https://github.com/your-username/report-repo
+* Report: https://github.com/31773207/university-final-project-report.pdf.git
 
 ---
 
